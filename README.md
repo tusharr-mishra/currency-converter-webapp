@@ -1,4 +1,4 @@
-# 💱 Currency Converter Web Application
+# Currency Converter Web Application
 
 <div align="center">
 
@@ -16,7 +16,7 @@ The application allows users to convert currencies dynamically using real-time e
 
 ## Live Preview
 
-**[View Live Demo]()** 
+**[View Live Demo]( https://tusharr-mishra.github.io/currency-converter-webapp/)** 
 
 ---
 
